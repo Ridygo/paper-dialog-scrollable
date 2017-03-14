@@ -1,6 +1,5 @@
 {
   "name": "paper-dialog-scrollable",
-  "version": "1.1.5",
   "description": "A scrollable area used inside the material design dialog",
   "authors": [
     "The Polymer Authors"
@@ -13,13 +12,6 @@
   ],
   "main": "paper-dialog-scrollable.html",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/PolymerElements/paper-dialog-scrollable"
-  },
-  "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/PolymerElements/paper-dialog-scrollable",
-  "ignore": [],
   "dependencies": {
     "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.0.0",
     "paper-dialog-behavior": "PolymerElements/paper-dialog-behavior#^1.0.0",
